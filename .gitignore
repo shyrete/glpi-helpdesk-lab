@@ -1,0 +1,11 @@
+# Logs and local files - never publish
+*.log
+Logs/
+.env
+*.vhdx
+*.iso
+
+# Editor / OS clutter
+.vscode/
+Thumbs.db
+desktop.ini

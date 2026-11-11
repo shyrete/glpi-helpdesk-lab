@@ -1,0 +1,2 @@
+# Keep Linux line endings on bash scripts, even on Windows
+*.sh text eol=lf
